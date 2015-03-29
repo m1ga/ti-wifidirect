@@ -1,0 +1,20 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: wifi direct
+author: Michael Gangolf
+license: Apache License, Version 2.0
+copyright: Copyright (c) 2013 Michael Gangolf
+
+
+
+# these should not be edited
+name: tiwifidirect
+moduleid: miga.tiwifidirect
+guid: d347c373-ec82-48b2-808e-4655ff9ebe02
+platform: android
+minsdk: 3.5.1.GA

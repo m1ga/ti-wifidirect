@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<Label id="lbl"/>
+		<Button id="btn"/>
+	</Window>
+</Alloy>
